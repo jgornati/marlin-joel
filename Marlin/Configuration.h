@@ -486,7 +486,7 @@ const bool Z_MAX_ENDSTOP_INVERTING = true; // set to true to invert the logic of
 // default settings
 
 //#define DEFAULT_AXIS_STEPS_PER_UNIT   {78.7402,78.7402,200.0*8/3,760*1.1}  // default steps per unit for Ultimaker
-#define DEFAULT_AXIS_STEPS_PER_UNIT   {200,200,7995.364303,1229}  // default steps per unit for Ultimaker Motores 0.9 con 1/8 microstep
+#define DEFAULT_AXIS_STEPS_PER_UNIT   {200,200,8051.7264,1229}  // default steps per unit for Ultimaker Motores 0.9 con 1/8 microstep
 //#define DEFAULT_MAX_FEEDRATE          {500, 500, 5, 25}    // (mm/sec)
 //#define DEFAULT_MAX_FEEDRATE          {500, 500, 1, 25}    // (mm/sec)1ºSeteo JOEL
 //#define DEFAULT_MAX_FEEDRATE          {250, 250, 1, 45}    // (mm/sec)2ºSeteo Lechonquito
